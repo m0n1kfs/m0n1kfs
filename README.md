@@ -1,16 +1,15 @@
-### Hi there 👋
+>📱 Soy especialista en comunicación estratégica y gestión de proyectos e intentando ahora aprender programación 🤞
 
-<!--
-**m0n1kfs/m0n1kfs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Algunos comandos aprendidos en la sesión 1 de Undefined Academy: 
+| Comando | Descripción |
+| ------ | ------ |
+| **ls** | _List Directory Content_ (lista los archivos de la carpeta actual|
+| **cd** | _Change Current Directoy_ (permite cambiar de carpeta) |
+| **pwd** | _Print Working Directory_ (muestra la ruta absoluta del directorio actual) |
+| **cat**| _Concatenate & Print Files_ (imprime el contenido de un archivo) |
+| **cp**| _Copy_ (permite copiar archivos dada una ruta) |
+| **mv** | _Move_ (permite mover un archivo o carpeta) |
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Comandos alias
+- **alias**  _cl="clear"_
+- **alias**  _shell="echo $SHELL"_
