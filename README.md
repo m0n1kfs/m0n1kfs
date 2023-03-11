@@ -1,6 +1,7 @@
 # Mónica Fernández Salinas
->📱 Soy especialista en comunicación estratégica y gestión de proyectos
->👩🏻‍💻 Intentando ahora aprender programación 🤞
+>📱 Especialista en gestión de proyectos y comunicación estratégica 
+>🖼 Historiadora del Arte
+>👩🏻‍💻 Ahora intentando ahora aprender programación 🤞
 
 ### Algunos comandos aprendidos en la sesión 1 de Undefined Academy: 
 | Comando | Descripción |
